@@ -16,6 +16,36 @@
 		CFC9E2C41CE4453F009CBE77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E2C21CE4453F009CBE77 /* LaunchScreen.storyboard */; };
 		CFC9E2CF1CE4453F009CBE77 /* MyJewerlyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC9E2CE1CE4453F009CBE77 /* MyJewerlyTests.swift */; };
 		CFC9E2DA1CE4453F009CBE77 /* MyJewerlyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC9E2D91CE4453F009CBE77 /* MyJewerlyUITests.swift */; };
+		CFC9E3081CE44953009CBE77 /* Hinhgame.atlas in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3071CE44953009CBE77 /* Hinhgame.atlas */; };
+		CFC9E3101CE44967009CBE77 /* AnhNen1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3091CE44967009CBE77 /* AnhNen1.jpg */; };
+		CFC9E3111CE44967009CBE77 /* AnhNen2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E30A1CE44967009CBE77 /* AnhNen2.jpg */; };
+		CFC9E3121CE44967009CBE77 /* AnhNen3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E30B1CE44967009CBE77 /* AnhNen3.jpg */; };
+		CFC9E3131CE44967009CBE77 /* AnhNen4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E30C1CE44967009CBE77 /* AnhNen4.jpg */; };
+		CFC9E3141CE44967009CBE77 /* AnhNen5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E30D1CE44967009CBE77 /* AnhNen5.jpg */; };
+		CFC9E3151CE44967009CBE77 /* AnhNen6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E30E1CE44967009CBE77 /* AnhNen6.jpg */; };
+		CFC9E3161CE44967009CBE77 /* BlackHole1.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E30F1CE44967009CBE77 /* BlackHole1.png */; };
+		CFC9E31A1CE44987009CBE77 /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3191CE44987009CBE77 /* Sounds */; };
+		CFC9E31C1CE44A79009CBE77 /* Planet.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC9E31B1CE44A79009CBE77 /* Planet.swift */; };
+		CFC9E31E1CE464B1009CBE77 /* GameFieldArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC9E31D1CE464B1009CBE77 /* GameFieldArray.swift */; };
+		CFC9E3201CE474D7009CBE77 /* Level.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC9E31F1CE474D7009CBE77 /* Level.swift */; };
+		CFC9E3221CE47CC3009CBE77 /* Tile.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC9E3211CE47CC3009CBE77 /* Tile.swift */; };
+		CFC9E3241CE47DDB009CBE77 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC9E3231CE47DDB009CBE77 /* Extensions.swift */; };
+		CFC9E3341CE48F87009CBE77 /* Level0.json in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E32F1CE48F87009CBE77 /* Level0.json */; };
+		CFC9E3351CE48F87009CBE77 /* Level1.json in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3301CE48F87009CBE77 /* Level1.json */; };
+		CFC9E3361CE48F87009CBE77 /* Level2.json in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3311CE48F87009CBE77 /* Level2.json */; };
+		CFC9E3371CE48F87009CBE77 /* Level3.json in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3321CE48F87009CBE77 /* Level3.json */; };
+		CFC9E3381CE48F87009CBE77 /* Level4.json in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3331CE48F87009CBE77 /* Level4.json */; };
+		CFC9E33B1CE493D3009CBE77 /* Swap.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC9E33A1CE493D3009CBE77 /* Swap.swift */; };
+		CFC9E33D1CE4B887009CBE77 /* Chain.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC9E33C1CE4B887009CBE77 /* Chain.swift */; };
+		CFC9E33F1CE7726C009CBE77 /* Earth2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E33E1CE7726C009CBE77 /* Earth2x.png */; };
+		CFC9E3411CE77279009CBE77 /* Mars2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3401CE77279009CBE77 /* Mars2x.png */; };
+		CFC9E3451CE7729A009CBE77 /* Saturn2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3421CE7729A009CBE77 /* Saturn2x.png */; };
+		CFC9E3461CE7729A009CBE77 /* Sun2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3431CE7729A009CBE77 /* Sun2x.png */; };
+		CFC9E3471CE7729A009CBE77 /* Uranus2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3441CE7729A009CBE77 /* Uranus2x.png */; };
+		CFC9E3491CE772A4009CBE77 /* Moon2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E3481CE772A4009CBE77 /* Moon2x.png */; };
+		CFC9E34B1CE77307009CBE77 /* Ceres2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E34A1CE77307009CBE77 /* Ceres2x.png */; };
+		CFC9E34E1CE774C7009CBE77 /* Anime-Girl-Brown-Hair-Green-Eyes-HD-Wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E34C1CE774C7009CBE77 /* Anime-Girl-Brown-Hair-Green-Eyes-HD-Wallpaper.jpg */; };
+		CFC9E34F1CE774C7009CBE77 /* Regina_sketch.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC9E34D1CE774C7009CBE77 /* Regina_sketch.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +81,36 @@
 		CFC9E2D51CE4453F009CBE77 /* MyJewerlyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyJewerlyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFC9E2D91CE4453F009CBE77 /* MyJewerlyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyJewerlyUITests.swift; sourceTree = "<group>"; };
 		CFC9E2DB1CE4453F009CBE77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFC9E3071CE44953009CBE77 /* Hinhgame.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = Hinhgame.atlas; sourceTree = "<group>"; };
+		CFC9E3091CE44967009CBE77 /* AnhNen1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AnhNen1.jpg; sourceTree = "<group>"; };
+		CFC9E30A1CE44967009CBE77 /* AnhNen2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AnhNen2.jpg; sourceTree = "<group>"; };
+		CFC9E30B1CE44967009CBE77 /* AnhNen3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AnhNen3.jpg; sourceTree = "<group>"; };
+		CFC9E30C1CE44967009CBE77 /* AnhNen4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AnhNen4.jpg; sourceTree = "<group>"; };
+		CFC9E30D1CE44967009CBE77 /* AnhNen5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AnhNen5.jpg; sourceTree = "<group>"; };
+		CFC9E30E1CE44967009CBE77 /* AnhNen6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AnhNen6.jpg; sourceTree = "<group>"; };
+		CFC9E30F1CE44967009CBE77 /* BlackHole1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BlackHole1.png; sourceTree = "<group>"; };
+		CFC9E3191CE44987009CBE77 /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sounds; sourceTree = "<group>"; };
+		CFC9E31B1CE44A79009CBE77 /* Planet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Planet.swift; sourceTree = "<group>"; };
+		CFC9E31D1CE464B1009CBE77 /* GameFieldArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameFieldArray.swift; sourceTree = "<group>"; };
+		CFC9E31F1CE474D7009CBE77 /* Level.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Level.swift; sourceTree = "<group>"; };
+		CFC9E3211CE47CC3009CBE77 /* Tile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tile.swift; sourceTree = "<group>"; };
+		CFC9E3231CE47DDB009CBE77 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		CFC9E32F1CE48F87009CBE77 /* Level0.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level0.json; sourceTree = "<group>"; };
+		CFC9E3301CE48F87009CBE77 /* Level1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level1.json; sourceTree = "<group>"; };
+		CFC9E3311CE48F87009CBE77 /* Level2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level2.json; sourceTree = "<group>"; };
+		CFC9E3321CE48F87009CBE77 /* Level3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level3.json; sourceTree = "<group>"; };
+		CFC9E3331CE48F87009CBE77 /* Level4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level4.json; sourceTree = "<group>"; };
+		CFC9E33A1CE493D3009CBE77 /* Swap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swap.swift; sourceTree = "<group>"; };
+		CFC9E33C1CE4B887009CBE77 /* Chain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chain.swift; sourceTree = "<group>"; };
+		CFC9E33E1CE7726C009CBE77 /* Earth2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Earth2x.png; sourceTree = "<group>"; };
+		CFC9E3401CE77279009CBE77 /* Mars2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mars2x.png; sourceTree = "<group>"; };
+		CFC9E3421CE7729A009CBE77 /* Saturn2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Saturn2x.png; sourceTree = "<group>"; };
+		CFC9E3431CE7729A009CBE77 /* Sun2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sun2x.png; sourceTree = "<group>"; };
+		CFC9E3441CE7729A009CBE77 /* Uranus2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Uranus2x.png; sourceTree = "<group>"; };
+		CFC9E3481CE772A4009CBE77 /* Moon2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Moon2x.png; sourceTree = "<group>"; };
+		CFC9E34A1CE77307009CBE77 /* Ceres2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ceres2x.png; sourceTree = "<group>"; };
+		CFC9E34C1CE774C7009CBE77 /* Anime-Girl-Brown-Hair-Green-Eyes-HD-Wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Anime-Girl-Brown-Hair-Green-Eyes-HD-Wallpaper.jpg"; sourceTree = "<group>"; };
+		CFC9E34D1CE774C7009CBE77 /* Regina_sketch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Regina_sketch.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +161,21 @@
 		CFC9E2B41CE4453F009CBE77 /* MyJewerly */ = {
 			isa = PBXGroup;
 			children = (
+				CFC9E3391CE48FBB009CBE77 /* level */,
+				CFC9E3191CE44987009CBE77 /* Sounds */,
+				CFC9E3071CE44953009CBE77 /* Hinhgame.atlas */,
+				CFC9E3061CE448DB009CBE77 /* BackGroundImage */,
 				CFC9E2B51CE4453F009CBE77 /* AppDelegate.swift */,
-				CFC9E2B71CE4453F009CBE77 /* GameScene.sks */,
-				CFC9E2B91CE4453F009CBE77 /* GameScene.swift */,
 				CFC9E2BB1CE4453F009CBE77 /* GameViewController.swift */,
+				CFC9E2B91CE4453F009CBE77 /* GameScene.swift */,
+				CFC9E31F1CE474D7009CBE77 /* Level.swift */,
+				CFC9E31B1CE44A79009CBE77 /* Planet.swift */,
+				CFC9E33C1CE4B887009CBE77 /* Chain.swift */,
+				CFC9E3231CE47DDB009CBE77 /* Extensions.swift */,
+				CFC9E31D1CE464B1009CBE77 /* GameFieldArray.swift */,
+				CFC9E3211CE47CC3009CBE77 /* Tile.swift */,
+				CFC9E33A1CE493D3009CBE77 /* Swap.swift */,
+				CFC9E2B71CE4453F009CBE77 /* GameScene.sks */,
 				CFC9E2BD1CE4453F009CBE77 /* Main.storyboard */,
 				CFC9E2C01CE4453F009CBE77 /* Assets.xcassets */,
 				CFC9E2C21CE4453F009CBE77 /* LaunchScreen.storyboard */,
@@ -129,6 +200,41 @@
 				CFC9E2DB1CE4453F009CBE77 /* Info.plist */,
 			);
 			path = MyJewerlyUITests;
+			sourceTree = "<group>";
+		};
+		CFC9E3061CE448DB009CBE77 /* BackGroundImage */ = {
+			isa = PBXGroup;
+			children = (
+				CFC9E34C1CE774C7009CBE77 /* Anime-Girl-Brown-Hair-Green-Eyes-HD-Wallpaper.jpg */,
+				CFC9E34D1CE774C7009CBE77 /* Regina_sketch.png */,
+				CFC9E34A1CE77307009CBE77 /* Ceres2x.png */,
+				CFC9E3481CE772A4009CBE77 /* Moon2x.png */,
+				CFC9E3421CE7729A009CBE77 /* Saturn2x.png */,
+				CFC9E3431CE7729A009CBE77 /* Sun2x.png */,
+				CFC9E3441CE7729A009CBE77 /* Uranus2x.png */,
+				CFC9E3401CE77279009CBE77 /* Mars2x.png */,
+				CFC9E33E1CE7726C009CBE77 /* Earth2x.png */,
+				CFC9E3091CE44967009CBE77 /* AnhNen1.jpg */,
+				CFC9E30A1CE44967009CBE77 /* AnhNen2.jpg */,
+				CFC9E30B1CE44967009CBE77 /* AnhNen3.jpg */,
+				CFC9E30C1CE44967009CBE77 /* AnhNen4.jpg */,
+				CFC9E30D1CE44967009CBE77 /* AnhNen5.jpg */,
+				CFC9E30E1CE44967009CBE77 /* AnhNen6.jpg */,
+				CFC9E30F1CE44967009CBE77 /* BlackHole1.png */,
+			);
+			name = BackGroundImage;
+			sourceTree = "<group>";
+		};
+		CFC9E3391CE48FBB009CBE77 /* level */ = {
+			isa = PBXGroup;
+			children = (
+				CFC9E32F1CE48F87009CBE77 /* Level0.json */,
+				CFC9E3301CE48F87009CBE77 /* Level1.json */,
+				CFC9E3311CE48F87009CBE77 /* Level2.json */,
+				CFC9E3321CE48F87009CBE77 /* Level3.json */,
+				CFC9E3331CE48F87009CBE77 /* Level4.json */,
+			);
+			name = level;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,10 +341,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFC9E34E1CE774C7009CBE77 /* Anime-Girl-Brown-Hair-Green-Eyes-HD-Wallpaper.jpg in Resources */,
+				CFC9E3451CE7729A009CBE77 /* Saturn2x.png in Resources */,
+				CFC9E3491CE772A4009CBE77 /* Moon2x.png in Resources */,
+				CFC9E3471CE7729A009CBE77 /* Uranus2x.png in Resources */,
+				CFC9E3111CE44967009CBE77 /* AnhNen2.jpg in Resources */,
 				CFC9E2B81CE4453F009CBE77 /* GameScene.sks in Resources */,
+				CFC9E3131CE44967009CBE77 /* AnhNen4.jpg in Resources */,
+				CFC9E3411CE77279009CBE77 /* Mars2x.png in Resources */,
+				CFC9E3461CE7729A009CBE77 /* Sun2x.png in Resources */,
+				CFC9E3351CE48F87009CBE77 /* Level1.json in Resources */,
+				CFC9E3151CE44967009CBE77 /* AnhNen6.jpg in Resources */,
+				CFC9E3081CE44953009CBE77 /* Hinhgame.atlas in Resources */,
+				CFC9E31A1CE44987009CBE77 /* Sounds in Resources */,
 				CFC9E2C41CE4453F009CBE77 /* LaunchScreen.storyboard in Resources */,
 				CFC9E2C11CE4453F009CBE77 /* Assets.xcassets in Resources */,
+				CFC9E3161CE44967009CBE77 /* BlackHole1.png in Resources */,
+				CFC9E3121CE44967009CBE77 /* AnhNen3.jpg in Resources */,
 				CFC9E2BF1CE4453F009CBE77 /* Main.storyboard in Resources */,
+				CFC9E34F1CE774C7009CBE77 /* Regina_sketch.png in Resources */,
+				CFC9E3371CE48F87009CBE77 /* Level3.json in Resources */,
+				CFC9E3341CE48F87009CBE77 /* Level0.json in Resources */,
+				CFC9E3361CE48F87009CBE77 /* Level2.json in Resources */,
+				CFC9E34B1CE77307009CBE77 /* Ceres2x.png in Resources */,
+				CFC9E33F1CE7726C009CBE77 /* Earth2x.png in Resources */,
+				CFC9E3381CE48F87009CBE77 /* Level4.json in Resources */,
+				CFC9E3101CE44967009CBE77 /* AnhNen1.jpg in Resources */,
+				CFC9E3141CE44967009CBE77 /* AnhNen5.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,9 +392,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFC9E3201CE474D7009CBE77 /* Level.swift in Sources */,
+				CFC9E31E1CE464B1009CBE77 /* GameFieldArray.swift in Sources */,
 				CFC9E2BA1CE4453F009CBE77 /* GameScene.swift in Sources */,
+				CFC9E3241CE47DDB009CBE77 /* Extensions.swift in Sources */,
+				CFC9E3221CE47CC3009CBE77 /* Tile.swift in Sources */,
+				CFC9E33D1CE4B887009CBE77 /* Chain.swift in Sources */,
+				CFC9E31C1CE44A79009CBE77 /* Planet.swift in Sources */,
 				CFC9E2BC1CE4453F009CBE77 /* GameViewController.swift in Sources */,
 				CFC9E2B61CE4453F009CBE77 /* AppDelegate.swift in Sources */,
+				CFC9E33B1CE493D3009CBE77 /* Swap.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -492,6 +628,7 @@
 				CFC9E2E01CE4453F009CBE77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CFC9E2E11CE4453F009CBE77 /* Build configuration list for PBXNativeTarget "MyJewerlyTests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +637,7 @@
 				CFC9E2E31CE4453F009CBE77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CFC9E2E41CE4453F009CBE77 /* Build configuration list for PBXNativeTarget "MyJewerlyUITests" */ = {
 			isa = XCConfigurationList;
@@ -508,6 +646,7 @@
 				CFC9E2E61CE4453F009CBE77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
